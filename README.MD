@@ -1,8 +1,8 @@
-# Teste de criação do arquivo README.MD pelo github
+# Test: Creating README.MD file from github
 
-> Status do projeto: Em desenvolvimento
+> Status of the projetct: In development
 
-Para rodar esse projeto em sua máquina, por favor use o comando:
+To run this project in your machine, please run the command:
 ```
 node app.js
 ```
